@@ -1,7 +1,7 @@
 ## About
 This is a project created by Cooper Bowden in collaboration with Christopher Newport University for the city of Newport 
 News to create a AI chatbot to explain city code and other city resources using open source projects. 
-The project primarily uses vllm, llama-index, and streamlit; all of which are open-source libraries maintained by the community.
+The project primarily uses vllm for llm serving, llama-index for data retrieval, and streamlit for the web interface.
 
 ## Initial Setup
 - download libraries from requirements.txt file
