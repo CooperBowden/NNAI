@@ -1,0 +1,14 @@
+vllm
+llama-index-core
+llama-index-llms-openai_like
+llama-index-embeddings-fastembed
+streamlit
+streamlit_chat
+streamlit_feedback
+huggingface_hub
+transformers
+pandas
+
+
+
+

@@ -1,0 +1,9 @@
+# CLI Reference: https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html?ref=blog.mozilla.ai
+port: 8000
+download-dir: "./model/hub"
+tensor-parallel-size: 1
+uvicorn-log-level: "warning"
+disable-log-requests: True
+max-num-seqs: 128
+gpu-memory-utilization: 0.60
+max-model-len: 10000

@@ -1,0 +1,11 @@
+[server]
+headless = true
+[logger]
+level = "INFO"
+messageFormat = "%(asctime)s %(message)s"
+
+[theme]
+primaryColor="#de5647"
+backgroundColor="#FFF"
+secondaryBackgroundColor="#1c3b7b"
+textColor="#242424"
